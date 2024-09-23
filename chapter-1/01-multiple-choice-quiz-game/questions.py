@@ -1,6 +1,4 @@
-from quiz_types import Question
-
-QUESTIONS: list[Question] = [
+QUESTIONS = [
     {
         'question': 'What is the capital city of Australia?',
         'options': {'A': 'Sydney', 'B': 'Canberra', 'C': 'Melbourne', 'D': 'Brisbane'},
